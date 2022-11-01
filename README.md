@@ -1,6 +1,6 @@
-# Pyth-4-assmnt
+# Python-4-assignment
 
-NFT-search_with_Flask and Autorization
+NFT-search_with_Flask and Autorization.
 A web application written in python and flask to search for NFT images by their address. It saves all NFTs in postgresql database.
 
 Installation:
